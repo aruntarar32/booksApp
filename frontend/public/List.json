@@ -1,0 +1,94 @@
+[
+    {
+        "id": 1,
+        "Name": "Story Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "/assets/book1.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 2,
+        "Name": "Health Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 350,
+        "Category": "Food",
+        "Image": "/assets/book2.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 3,
+        "Name": "Foods Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 150,
+        "Category": "Food",
+        "Image": "/assets/book3.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 4,
+        "Name": "Upnyash Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "/assets/book4.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 5,
+        "Name": "Medicine Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 750,
+        "Category": "Doctor",
+        "Image": "/assets/book5.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 6,
+        "Name": "Fitness Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 300,
+        "Category": "Doctor",
+        "Image": "/assets/book6.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 7,
+        "Name": "Eassy Life Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 550,
+        "Category": "Happy",
+        "Image": "/assets/book7.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 8,
+        "Name": "Mahabharat Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "/assets/book8.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 9,
+        "Name": "Ramayan Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 0,
+        "Category": "Free",
+        "Image": "/assets/book9.jpg",
+        "Button": "Book Now"
+    },
+    {
+        "id": 10,
+        "Name": "Nutrition Book",
+        "Title": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "Price": 200,
+        "Category": "health",
+        "Image": "/assets/book12.jpg",
+        "Button": "Book Now"
+    }
+    
+
+]
