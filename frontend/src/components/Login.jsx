@@ -15,9 +15,9 @@ function Login() {
 
   return (
     <>
-      <div className="modal dark:bg-slate-900 dark:text-white">
+      <div className="modal">
         <dialog id="my_modal_3" className="modal">
-          <div className="modal-box">
+          <div className="modal-box dark:bg-slate-900 dark:text-white">
             <form  method="dialog">
               {/* if there is a button in form, it will close the modal */}
               <button to="/" className="btn btn-sm btn-circle btn-ghost absolute right-2 top-2">
@@ -27,7 +27,7 @@ function Login() {
             <h3 className="font-bold text-lg text-center">Login</h3>
             <form onSubmit={handleSubmit(onSubmit)}>
             <div className="flex justify-center items-center">
-              <div className="w-full max-w-md p-6 bg-white rounded-lg shadow-md">
+              <div className="w-full max-w-md p-6 rounded-lg shadow-md">
                 <div>
                   <label className="label" htmlFor="">
                     Please Enter Your Email

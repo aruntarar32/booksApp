@@ -20,7 +20,7 @@ function Signup() {
   return (
     <>
       <div className="flex justify-center items-center h-screen">
-        <div className="w-full max-w-md p-6 bg-white rounded-lg shadow-md">
+        <div className="w-full max-w-md p-6 bg-white rounded-lg shadow-md dark:bg-slate-800 dark:text-white">
           <div className="relative">
             {/* Close Button */}
             <Link

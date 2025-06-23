@@ -50,13 +50,13 @@ function Navbar() {
         <a href="/">Home</a>
       </li>
       <li>
-        <a>About</a>
+        <a href="/Abouts" >Abouts</a>
       </li>
       <li>
         <a href="/courses">Courses</a>
       </li>
       <li>
-        <a>Contact</a>
+        <a href="/Contacts" >Contacts</a>
       </li>
       {/* <li>
         <details>
